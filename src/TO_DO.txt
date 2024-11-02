@@ -1,0 +1,5 @@
+Solve Newton's law of motion for particles using velocity verlet scheme
+calculate the voidfraction of particles
+Please make it 3D
+Convert the code into finite volume
+Add drag and then other forces.
